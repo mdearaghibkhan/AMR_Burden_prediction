@@ -459,8 +459,8 @@ if uploaded_file:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666; font-size: 0.9rem;">
-    <p>Human Gut AMR Burden Prediction Tool</p>
-    <p> For Research Use Only</p>
-    <p>Results should be interpreted by qualified healthcare professionals</p>
+    <p> • Human Gut AMR Burden Prediction Tool</p>
+    <p> • For Research Use Only</p>
+    <p> • Results should be interpreted by qualified healthcare professionals</p>
 </div>
 """, unsafe_allow_html=True)
